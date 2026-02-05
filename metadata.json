@@ -1,0 +1,7 @@
+{
+  "name": "Reflecto",
+  "description": "A high-end web application for an automotive paint protection and detailing service, featuring a dark aesthetic, service showcases, before/after comparisons, and a smart booking system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
